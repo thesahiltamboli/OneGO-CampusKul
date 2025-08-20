@@ -1,0 +1,9 @@
+com\campuskul\user\operations\dto\StudentResponseDTO.class
+com\campuskul\user\operations\serviceImpl\StudentServiceImpl.class
+com\campuskul\user\operations\OperationsApplication.class
+com\campuskul\user\operations\repository\StudentRepository.class
+com\campuskul\user\operations\model\Student$StudentBuilder.class
+com\campuskul\user\operations\service\StudentService.class
+com\campuskul\user\operations\controller\StudentController.class
+com\campuskul\user\operations\dto\StudentResponseDTO$StudentResponseDTOBuilder.class
+com\campuskul\user\operations\model\Student.class
